@@ -1,0 +1,2 @@
+Hello Odin
+This second line is to test using VSCode as an editor for commit messages
